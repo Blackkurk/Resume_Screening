@@ -1,0 +1,4 @@
+echo "PyPDF2" >> requirements.txt
+git add requirements.txt
+git commit -m "新增 PyPDF2 依賴"
+git push origin main
