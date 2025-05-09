@@ -1,0 +1,1040 @@
+[
+  {
+    "job_id": "JOB-4",
+    "job_title": "Aircraft Cabin Interior Engineer",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.67,
+    "matched_skills": [
+      "risk assessment",
+      "aircraft systems",
+      "maintenance protocols",
+      "safety audits"
+    ],
+    "unmatched_skills": [
+      "data analysis",
+      "aviation regulations"
+    ]
+  },
+  {
+    "job_id": "JOB-30",
+    "job_title": "Aviation Quality Assurance Officer",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.62,
+    "matched_skills": [
+      "risk assessment",
+      "regulatory compliance",
+      "safety audits",
+      "project management",
+      "aircraft systems"
+    ],
+    "unmatched_skills": [
+      "report writing",
+      "data analysis",
+      "problem solving"
+    ]
+  },
+  {
+    "job_id": "JOB-14",
+    "job_title": "Airport Facilities Manager",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.57,
+    "matched_skills": [
+      "regulatory compliance",
+      "risk assessment",
+      "project management",
+      "maintenance protocols"
+    ],
+    "unmatched_skills": [
+      "team coordination",
+      "excel proficiency",
+      "budget forecasting"
+    ]
+  },
+  {
+    "job_id": "JOB-20",
+    "job_title": "Aviation Compliance Specialist",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.56,
+    "matched_skills": [
+      "risk assessment",
+      "regulatory compliance",
+      "safety audits",
+      "project management",
+      "aircraft systems"
+    ],
+    "unmatched_skills": [
+      "mandarin communication",
+      "report writing",
+      "data analysis",
+      "problem solving"
+    ]
+  },
+  {
+    "job_id": "JOB-24",
+    "job_title": "Aviation Data Privacy Officer",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.56,
+    "matched_skills": [
+      "risk assessment",
+      "regulatory compliance",
+      "system audits",
+      "project management",
+      "data privacy"
+    ],
+    "unmatched_skills": [
+      "report writing",
+      "legal documentation",
+      "fluent in english",
+      "cybersecurity awareness"
+    ]
+  },
+  {
+    "job_id": "JOB-44",
+    "job_title": "Fuel Operations Supervisor",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.5,
+    "matched_skills": [
+      "regulatory compliance",
+      "aircraft systems",
+      "safety audits"
+    ],
+    "unmatched_skills": [
+      "team coordination",
+      "conflict resolution",
+      "operational efficiency"
+    ]
+  },
+  {
+    "job_id": "JOB-19",
+    "job_title": "Airport Wildlife Hazard Management Officer",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.44,
+    "matched_skills": [
+      "risk assessment",
+      "regulatory compliance",
+      "incident response",
+      "safety audits"
+    ],
+    "unmatched_skills": [
+      "report writing",
+      "data analysis",
+      "environmental monitoring",
+      "conflict resolution",
+      "operational efficiency"
+    ]
+  },
+  {
+    "job_id": "JOB-22",
+    "job_title": "Aviation Cybersecurity Specialist",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.44,
+    "matched_skills": [
+      "risk assessment",
+      "regulatory compliance",
+      "incident response",
+      "system audits"
+    ],
+    "unmatched_skills": [
+      "network security",
+      "report writing",
+      "fluent in english",
+      "data analysis",
+      "strategic planning"
+    ]
+  },
+  {
+    "job_id": "JOB-33",
+    "job_title": "Aviation Sustainability Officer",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.44,
+    "matched_skills": [
+      "regulatory compliance",
+      "risk assessment",
+      "project management",
+      "environmental impact assessment"
+    ],
+    "unmatched_skills": [
+      "report writing",
+      "excel proficiency",
+      "fluent in english",
+      "data analysis",
+      "strategic planning"
+    ]
+  },
+  {
+    "job_id": "JOB-36",
+    "job_title": "Cabin Crew Trainer",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.44,
+    "matched_skills": [
+      "risk assessment",
+      "regulatory compliance",
+      "recruitment processes",
+      "maintenance protocols",
+      "safety audits",
+      "customer service",
+      "aircraft systems",
+      "emergency procedures"
+    ],
+    "unmatched_skills": [
+      "mandarin communication",
+      "budget forecasting",
+      "leadership",
+      "report writing",
+      "excel proficiency",
+      "fluent in english",
+      "data analysis",
+      "aviation regulations",
+      "cargo handling",
+      "conflict resolution"
+    ]
+  },
+  {
+    "job_id": "JOB-45",
+    "job_title": "Ground Handling Contracts Manager",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.43,
+    "matched_skills": [
+      "regulatory compliance",
+      "risk assessment",
+      "project management"
+    ],
+    "unmatched_skills": [
+      "report writing",
+      "leadership",
+      "budget forecasting",
+      "contract negotiation"
+    ]
+  },
+  {
+    "job_id": "JOB-13",
+    "job_title": "Airport Duty Manager",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.42,
+    "matched_skills": [
+      "regulatory compliance",
+      "flight safety",
+      "safety audits",
+      "project management",
+      "customer service"
+    ],
+    "unmatched_skills": [
+      "team coordination",
+      "excel proficiency",
+      "fluent in english",
+      "hr strategy",
+      "scheduling tools",
+      "conflict resolution",
+      "operational efficiency"
+    ]
+  },
+  {
+    "job_id": "JOB-26",
+    "job_title": "Aviation HR Business Partner",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.42,
+    "matched_skills": [
+      "regulatory compliance",
+      "flight safety",
+      "safety audits",
+      "project management",
+      "emergency procedures"
+    ],
+    "unmatched_skills": [
+      "hr strategy",
+      "fluent in english",
+      "data analysis",
+      "security procedures",
+      "crm systems",
+      "strategic planning",
+      "budget forecasting"
+    ]
+  },
+  {
+    "job_id": "JOB-11",
+    "job_title": "Airline Marketing Executive",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.4,
+    "matched_skills": [
+      "risk assessment",
+      "regulatory compliance",
+      "recruitment processes",
+      "maintenance protocols",
+      "flight safety",
+      "safety audits",
+      "aircraft systems",
+      "emergency procedures"
+    ],
+    "unmatched_skills": [
+      "mandarin communication",
+      "leadership",
+      "passenger management",
+      "report writing",
+      "data analysis",
+      "aviation regulations",
+      "crew training",
+      "crm systems",
+      "cargo handling",
+      "budget forecasting",
+      "conflict resolution",
+      "operational efficiency"
+    ]
+  },
+  {
+    "job_id": "JOB-25",
+    "job_title": "Aviation Health & Biosecurity Officer",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.4,
+    "matched_skills": [
+      "risk assessment",
+      "regulatory compliance",
+      "incident management",
+      "emergency procedures"
+    ],
+    "unmatched_skills": [
+      "health screening protocols",
+      "crisis communication",
+      "report writing",
+      "fluent in english",
+      "data analysis",
+      "conflict resolution"
+    ]
+  },
+  {
+    "job_id": "JOB-21",
+    "job_title": "Aviation Customer Relations Lead",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.39,
+    "matched_skills": [
+      "risk assessment",
+      "regulatory compliance",
+      "recruitment processes",
+      "maintenance protocols",
+      "customer service",
+      "aircraft systems",
+      "emergency procedures"
+    ],
+    "unmatched_skills": [
+      "passenger management",
+      "problem solving",
+      "report writing",
+      "team coordination",
+      "hr strategy",
+      "data analysis",
+      "excel proficiency",
+      "fluent in english",
+      "security procedures",
+      "strategic planning",
+      "budget forecasting"
+    ]
+  },
+  {
+    "job_id": "JOB-41",
+    "job_title": "Flight Operations Officer",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.39,
+    "matched_skills": [
+      "risk assessment",
+      "regulatory compliance",
+      "maintenance protocols",
+      "flight safety",
+      "safety audits",
+      "aircraft systems",
+      "emergency procedures"
+    ],
+    "unmatched_skills": [
+      "mandarin communication",
+      "budget forecasting",
+      "leadership",
+      "problem solving",
+      "excel proficiency",
+      "aviation regulations",
+      "security procedures",
+      "strategic planning",
+      "cargo handling",
+      "conflict resolution",
+      "operational efficiency"
+    ]
+  },
+  {
+    "job_id": "JOB-48",
+    "job_title": "Passenger Services Officer",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.38,
+    "matched_skills": [
+      "risk assessment",
+      "customer service",
+      "emergency procedures"
+    ],
+    "unmatched_skills": [
+      "team coordination",
+      "fluent in english",
+      "aviation regulations",
+      "crm systems",
+      "conflict resolution"
+    ]
+  },
+  {
+    "job_id": "JOB-1",
+    "job_title": "Aerospace Systems Engineer",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.36,
+    "matched_skills": [
+      "regulatory compliance",
+      "aircraft systems",
+      "flight safety",
+      "recruitment processes"
+    ],
+    "unmatched_skills": [
+      "mandarin communication",
+      "leadership",
+      "report writing",
+      "team coordination",
+      "scheduling tools",
+      "crm systems",
+      "cargo handling"
+    ]
+  },
+  {
+    "job_id": "JOB-2",
+    "job_title": "Air Cargo Specialist",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.36,
+    "matched_skills": [
+      "recruitment processes",
+      "aircraft systems",
+      "flight safety",
+      "safety audits"
+    ],
+    "unmatched_skills": [
+      "hr strategy",
+      "report writing",
+      "fluent in english",
+      "data analysis",
+      "team coordination",
+      "strategic planning",
+      "conflict resolution"
+    ]
+  },
+  {
+    "job_id": "JOB-49",
+    "job_title": "Pilot Recruitment Coordinator",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.35,
+    "matched_skills": [
+      "risk assessment",
+      "regulatory compliance",
+      "recruitment processes",
+      "flight safety",
+      "safety audits",
+      "customer service",
+      "aircraft systems"
+    ],
+    "unmatched_skills": [
+      "mandarin communication",
+      "report writing",
+      "hr strategy",
+      "excel proficiency",
+      "scheduling tools",
+      "fluent in english",
+      "aviation regulations",
+      "crew training",
+      "crm systems",
+      "strategic planning",
+      "budget forecasting",
+      "conflict resolution",
+      "operational efficiency"
+    ]
+  },
+  {
+    "job_id": "JOB-18",
+    "job_title": "Airport Operations Coordinator",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.33,
+    "matched_skills": [
+      "risk assessment",
+      "recruitment processes",
+      "maintenance protocols",
+      "flight safety",
+      "customer service",
+      "emergency procedures"
+    ],
+    "unmatched_skills": [
+      "mandarin communication",
+      "leadership",
+      "passenger management",
+      "report writing",
+      "team coordination",
+      "scheduling tools",
+      "aviation regulations",
+      "security procedures",
+      "crew training",
+      "strategic planning",
+      "cargo handling",
+      "operational efficiency"
+    ]
+  },
+  {
+    "job_id": "JOB-23",
+    "job_title": "Aviation Data Analyst",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.33,
+    "matched_skills": [
+      "maintenance protocols",
+      "customer service",
+      "aircraft systems",
+      "flight safety"
+    ],
+    "unmatched_skills": [
+      "mandarin communication",
+      "leadership",
+      "problem solving",
+      "report writing",
+      "hr strategy",
+      "data analysis",
+      "cargo handling",
+      "conflict resolution"
+    ]
+  },
+  {
+    "job_id": "JOB-29",
+    "job_title": "Aviation Legal Advisor",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.33,
+    "matched_skills": [
+      "risk assessment",
+      "regulatory compliance"
+    ],
+    "unmatched_skills": [
+      "report writing",
+      "fluent in english",
+      "contract negotiation",
+      "aviation regulations"
+    ]
+  },
+  {
+    "job_id": "JOB-37",
+    "job_title": "Check-in System Support Analyst",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.33,
+    "matched_skills": [
+      "project management",
+      "customer service"
+    ],
+    "unmatched_skills": [
+      "report writing",
+      "excel proficiency",
+      "system troubleshooting",
+      "crm systems"
+    ]
+  },
+  {
+    "job_id": "JOB-42",
+    "job_title": "Flight Planning Specialist",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.33,
+    "matched_skills": [
+      "regulatory compliance",
+      "recruitment processes",
+      "maintenance protocols",
+      "project management",
+      "aircraft systems"
+    ],
+    "unmatched_skills": [
+      "mandarin communication",
+      "budget forecasting",
+      "leadership",
+      "report writing",
+      "data analysis",
+      "scheduling tools",
+      "crm systems",
+      "strategic planning",
+      "cargo handling",
+      "conflict resolution"
+    ]
+  },
+  {
+    "job_id": "JOB-9",
+    "job_title": "Airline Finance Analyst",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.32,
+    "matched_skills": [
+      "recruitment processes",
+      "flight safety",
+      "safety audits",
+      "project management",
+      "aircraft systems",
+      "emergency procedures"
+    ],
+    "unmatched_skills": [
+      "mandarin communication",
+      "leadership",
+      "passenger management",
+      "problem solving",
+      "hr strategy",
+      "fluent in english",
+      "scheduling tools",
+      "aviation regulations",
+      "crew training",
+      "security procedures",
+      "cargo handling",
+      "crm systems",
+      "operational efficiency"
+    ]
+  },
+  {
+    "job_id": "JOB-38",
+    "job_title": "Crew Scheduling Officer",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.31,
+    "matched_skills": [
+      "risk assessment",
+      "regulatory compliance",
+      "recruitment processes",
+      "maintenance protocols",
+      "project management"
+    ],
+    "unmatched_skills": [
+      "mandarin communication",
+      "budget forecasting",
+      "passenger management",
+      "problem solving",
+      "report writing",
+      "team coordination",
+      "hr strategy",
+      "data analysis",
+      "crew training",
+      "cargo handling",
+      "conflict resolution"
+    ]
+  },
+  {
+    "job_id": "JOB-46",
+    "job_title": "Ground Services Supervisor",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.31,
+    "matched_skills": [
+      "risk assessment",
+      "project management",
+      "aircraft systems",
+      "recruitment processes"
+    ],
+    "unmatched_skills": [
+      "mandarin communication",
+      "leadership",
+      "passenger management",
+      "problem solving",
+      "fluent in english",
+      "aviation regulations",
+      "security procedures",
+      "crm systems",
+      "conflict resolution"
+    ]
+  },
+  {
+    "job_id": "JOB-6",
+    "job_title": "Aircraft Performance Engineer ",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.3,
+    "matched_skills": [
+      "risk assessment",
+      "aircraft systems",
+      "safety audits"
+    ],
+    "unmatched_skills": [
+      "report writing",
+      "excel proficiency",
+      "fluent in english",
+      "data analysis",
+      "aviation regulations",
+      "strategic planning",
+      "operational efficiency"
+    ]
+  },
+  {
+    "job_id": "JOB-7",
+    "job_title": "Aircraft Route Planning Officer",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.29,
+    "matched_skills": [
+      "weather forecast interpretation",
+      "flight safety"
+    ],
+    "unmatched_skills": [
+      "scheduling tools",
+      "data analysis",
+      "aviation regulations",
+      "crm systems",
+      "operational efficiency"
+    ]
+  },
+  {
+    "job_id": "JOB-12",
+    "job_title": "Airport Digital Transformation Officer",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.29,
+    "matched_skills": [
+      "regulatory compliance",
+      "project management"
+    ],
+    "unmatched_skills": [
+      "excel proficiency",
+      "data analysis",
+      "crm systems",
+      "strategic planning",
+      "operational efficiency"
+    ]
+  },
+  {
+    "job_id": "JOB-17",
+    "job_title": "Airport Network Systems Analyst",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.29,
+    "matched_skills": [
+      "risk assessment",
+      "project management"
+    ],
+    "unmatched_skills": [
+      "network security",
+      "report writing",
+      "fluent in english",
+      "data analysis",
+      "crm systems"
+    ]
+  },
+  {
+    "job_id": "JOB-35",
+    "job_title": "Cabin Crew Recruitment Officer",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.29,
+    "matched_skills": [
+      "customer service",
+      "recruitment processes"
+    ],
+    "unmatched_skills": [
+      "hr strategy",
+      "report writing",
+      "fluent in english",
+      "crew training",
+      "conflict resolution"
+    ]
+  },
+  {
+    "job_id": "JOB-43",
+    "job_title": "Flight Scheduling & Slot Coordinator",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.29,
+    "matched_skills": [
+      "risk assessment",
+      "regulatory compliance"
+    ],
+    "unmatched_skills": [
+      "report writing",
+      "data analysis",
+      "scheduling tools",
+      "strategic planning",
+      "operational efficiency"
+    ]
+  },
+  {
+    "job_id": "JOB-16",
+    "job_title": "Airport Lost & Found Supervisor",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.25,
+    "matched_skills": [
+      "customer service",
+      "incident management"
+    ],
+    "unmatched_skills": [
+      "record management",
+      "report writing",
+      "team coordination",
+      "fluent in english",
+      "crm systems",
+      "conflict resolution"
+    ]
+  },
+  {
+    "job_id": "JOB-39",
+    "job_title": "Emergency Response Coordinator",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.25,
+    "matched_skills": [
+      "risk assessment",
+      "emergency procedures"
+    ],
+    "unmatched_skills": [
+      "leadership",
+      "report writing",
+      "fluent in english",
+      "aviation regulations",
+      "crew training",
+      "conflict resolution"
+    ]
+  },
+  {
+    "job_id": "JOB-3",
+    "job_title": "Air Traffic Management Analyst",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.22,
+    "matched_skills": [
+      "risk assessment",
+      "flight safety"
+    ],
+    "unmatched_skills": [
+      "report writing",
+      "data analysis",
+      "scheduling tools",
+      "aviation regulations",
+      "crm systems",
+      "strategic planning",
+      "operational efficiency"
+    ]
+  },
+  {
+    "job_id": "JOB-50",
+    "job_title": "Ramp Services Coordinator",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.22,
+    "matched_skills": [
+      "maintenance protocols",
+      "safety audits"
+    ],
+    "unmatched_skills": [
+      "team coordination",
+      "report writing",
+      "fluent in english",
+      "security procedures",
+      "crm systems",
+      "cargo handling",
+      "conflict resolution"
+    ]
+  },
+  {
+    "job_id": "JOB-47",
+    "job_title": "Inflight Services Manager",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.21,
+    "matched_skills": [
+      "regulatory compliance",
+      "aircraft systems",
+      "recruitment processes"
+    ],
+    "unmatched_skills": [
+      "hr strategy",
+      "excel proficiency",
+      "fluent in english",
+      "data analysis",
+      "team coordination",
+      "security procedures",
+      "crew training",
+      "strategic planning",
+      "conflict resolution",
+      "crm systems",
+      "operational efficiency"
+    ]
+  },
+  {
+    "job_id": "JOB-31",
+    "job_title": "Aviation Safety Analyst",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.2,
+    "matched_skills": [
+      "project management",
+      "maintenance protocols",
+      "safety audits",
+      "recruitment processes"
+    ],
+    "unmatched_skills": [
+      "mandarin communication",
+      "leadership",
+      "passenger management",
+      "cargo handling",
+      "problem solving",
+      "report writing",
+      "team coordination",
+      "hr strategy",
+      "data analysis",
+      "fluent in english",
+      "security procedures",
+      "crm systems",
+      "strategic planning",
+      "budget forecasting",
+      "conflict resolution",
+      "operational efficiency"
+    ]
+  },
+  {
+    "job_id": "JOB-32",
+    "job_title": "Aviation Security Manager",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.2,
+    "matched_skills": [
+      "recruitment processes",
+      "safety audits"
+    ],
+    "unmatched_skills": [
+      "problem solving",
+      "report writing",
+      "excel proficiency",
+      "fluent in english",
+      "crew training",
+      "crm systems",
+      "cargo handling",
+      "operational efficiency"
+    ]
+  },
+  {
+    "job_id": "JOB-40",
+    "job_title": "Flight Dispatcher",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.2,
+    "matched_skills": [
+      "customer service",
+      "maintenance protocols"
+    ],
+    "unmatched_skills": [
+      "budget forecasting",
+      "team coordination",
+      "excel proficiency",
+      "fluent in english",
+      "security procedures",
+      "crew training",
+      "cargo handling",
+      "crm systems"
+    ]
+  },
+  {
+    "job_id": "JOB-28",
+    "job_title": "Aviation Language Specialist (Mandarin)",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.17,
+    "matched_skills": [
+      "customer service"
+    ],
+    "unmatched_skills": [
+      "mandarin communication",
+      "passenger management",
+      "report writing",
+      "crm systems",
+      "conflict resolution"
+    ]
+  },
+  {
+    "job_id": "JOB-10",
+    "job_title": "Airline Loyalty Program Manager",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.12,
+    "matched_skills": [
+      "customer service"
+    ],
+    "unmatched_skills": [
+      "marketing strategy",
+      "report writing",
+      "fluent in english",
+      "data analysis",
+      "crm systems",
+      "strategic planning",
+      "conflict resolution"
+    ]
+  },
+  {
+    "job_id": "JOB-15",
+    "job_title": "Airport Infrastructure Planner",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.12,
+    "matched_skills": [
+      "project management"
+    ],
+    "unmatched_skills": [
+      "report writing",
+      "excel proficiency",
+      "data analysis",
+      "aviation regulations",
+      "strategic planning",
+      "budget forecasting",
+      "operational efficiency"
+    ]
+  },
+  {
+    "job_id": "JOB-8",
+    "job_title": "Airline Cargo Sales Executive",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.11,
+    "matched_skills": [
+      "customer service"
+    ],
+    "unmatched_skills": [
+      "mandarin communication",
+      "contract negotiation",
+      "report writing",
+      "fluent in english",
+      "crm systems",
+      "market analysis",
+      "strategic planning",
+      "cargo handling"
+    ]
+  },
+  {
+    "job_id": "JOB-27",
+    "job_title": "Aviation Language Services Manager (Multilingual)",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.11,
+    "matched_skills": [
+      "customer service"
+    ],
+    "unmatched_skills": [
+      "mandarin communication",
+      "passenger management",
+      "report writing",
+      "team coordination",
+      "fluent in english",
+      "multilingual fluency",
+      "crm systems",
+      "conflict resolution"
+    ]
+  },
+  {
+    "job_id": "JOB-34",
+    "job_title": "Aviation Travel Experience Designer",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.11,
+    "matched_skills": [
+      "customer service"
+    ],
+    "unmatched_skills": [
+      "ux design",
+      "passenger management",
+      "report writing",
+      "fluent in english",
+      "data analysis",
+      "crm systems",
+      "strategic planning",
+      "operational efficiency"
+    ]
+  },
+  {
+    "job_id": "JOB-5",
+    "job_title": "Aircraft Maintenance Engineer",
+    "resume_id": "Benjamin_Brown_49",
+    "similarity": 0.07,
+    "matched_skills": [
+      "aircraft systems"
+    ],
+    "unmatched_skills": [
+      "mandarin communication",
+      "leadership",
+      "cargo handling",
+      "hr strategy",
+      "team coordination",
+      "excel proficiency",
+      "data analysis",
+      "aviation regulations",
+      "security procedures",
+      "crm systems",
+      "strategic planning",
+      "budget forecasting",
+      "operational efficiency"
+    ]
+  }
+]

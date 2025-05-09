@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <style>
+        body { font-family: Arial; line-height: 1.4; margin: 20px; }
+        h1 { color: #2e6c80; }
+    </style>
+</head>
+<body>
+    <h1>{{ name }}</h1>
+    <p><strong>Email:</strong> {{ email }}</p>
+    <p><strong>Phone:</strong> {{ phone }}</p>
+    <h2>Professional Summary</h2>
+    <p>Aircraft maintenance engineer with {{ years_experience }} years of experience, skilled in {{ skill_summary }}.</p>
+    <h2>Skills</h2>
+    <ul>
+        {% for skill in skills %}
+        <li>{{ skill }}</li>
+        {% endfor %}
+    </ul>
+    <h2>Experience</h2>
+    <ul>
+        <li>Worked on maintenance of {{ aircraft_type }} aircraft at {{ company }}, ensuring airworthiness and regulatory compliance.</li>
+    </ul>
+    <h2>Certifications</h2>
+    <ul>
+        <li>{{ certification }}</li>
+    </ul>
+</body>
+</html>
