@@ -1,6 +1,1 @@
-cat requirements.txt
-echo "PyPDF2" > requirements.txt  # 這樣會覆蓋舊的文件（謹慎使用）
-git status
-git add requirements.txt
-git commit -m "修正 requirements.txt，新增 PyPDF2"
-git push origin main
+
